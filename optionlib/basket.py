@@ -1,0 +1,1 @@
+# 2D basket: MC and tensor-product quadrature
